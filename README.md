@@ -36,6 +36,7 @@ To run this project locally:
 ## BloomHub:
 
 The website can be viewed here : https://manidixit51.github.io/BloomHub/
+
  
  ![image](https://github.com/manidixit51/BloomHub/assets/133573718/0e8582fd-3427-456b-ac0b-fcc1ec7a5fd0)
 
