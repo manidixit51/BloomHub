@@ -1,6 +1,4 @@
-# Flower-Website
-Responsive Flower Website From Mr. Web Designer
-
- For View Demo : https://bilal-friend.github.io/Flower-Website/Index.html 
+For View Demo : https://manidixit51.github.io/BloomHub/
  
- The work has finished on 21/07/2022
+ ![image](https://github.com/manidixit51/BloomHub/assets/133573718/0e8582fd-3427-456b-ac0b-fcc1ec7a5fd0)
+
